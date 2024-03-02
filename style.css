@@ -1,0 +1,18 @@
+* {
+    font-family:'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: red;
+    font-weight: bold;
+}
+
+ul {
+    background-color: rgb(175, 175, 175);
+    border-radius: 15px;
+}
+
+ol {
+    font-size: 20px;
+    font-weight: 400;
+}
